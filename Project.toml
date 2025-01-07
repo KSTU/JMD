@@ -1,0 +1,4 @@
+name = "JMD"
+uuid = "00e1be99-55c1-4ba9-bd65-147edc6912b3"
+authors = ["Ivan Anashkin <anashkin.ivan@gmail.com>"]
+version = "0.1.0"
